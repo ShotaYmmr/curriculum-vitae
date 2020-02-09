@@ -53,3 +53,5 @@ Windows10の運用環境は、オンプレミスのActive DirectoryとAzure AD�
 ## 強み
 
 ## 興味のあること
+
+## ポートフォリオ
