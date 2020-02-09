@@ -28,7 +28,7 @@ Windows Server 2016|Active Directory
 
 ## 職務経歴
 
-### ○ Windows7のWindows10移行及びAzure環境を使用したVDI環境構築 (2018/7 ~ 2020/02)
+### ○ Windows7のWindows10移行及びAzure環境を使用したVDI環境構築 (2018/07 ~ 2020/02)
 主にWindows10マスター設計、運用設計を担当。  
 Windows10マスター設計においては、セキュリティの観点をベースにマスターOSを構築。  
 運用設計では、オンプレミスのActive DirectoryとAzure ADの双方を使用したハイブリッド環境を構築し、Micorsoft Intuneを使用したMDM管理を実現。  
