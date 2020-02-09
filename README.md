@@ -24,7 +24,7 @@ Windows Server 2016|Active Directory
 ## 登壇歴
 
 * Japan Azure User Group で15分の Lightning Talk 
-　* [IntuneとWSUSを使ってWindows Updateをやってみる。](https://www.slideshare.net/shotayamamura1/intunewsuswindows-update)
+  * [IntuneとWSUSを使ってWindows Updateをやってみる。](https://www.slideshare.net/shotayamamura1/intunewsuswindows-update)
 
 ## 職務経歴
 
