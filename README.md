@@ -15,7 +15,7 @@ SlideShare|[shotayamamura1](https://www.slideshare.net/shotayamamura1)
 Name|Date
 ---|---
 基本情報技術者|2010/11 取得
-Lpic Level 1|2017/5 取得
+Lpic Level 1|2017/05 取得
 AWS Solutions Architect Associate|2019/03 取得
 
 
